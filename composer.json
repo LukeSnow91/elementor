@@ -1,0 +1,21 @@
+"name": "LukeSnow91/elementor",
+"description": "",
+"keywords": [
+"wordpress",
+"plugin"
+],
+"homepage":
+"https://github.com/LukeSnow91/elementor
+",
+"authors": [
+{
+"name": "Elementor",
+"homepage":
+"https://spiritutopia.com"
+}
+],
+"type": "wordpress-plugin",
+"require": {
+"php": ">5.6"
+} 
+}
